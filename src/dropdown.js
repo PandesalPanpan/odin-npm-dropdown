@@ -1,4 +1,4 @@
-export default class HamburgerMenu {
+export default class DropdownMenu {
     constructor(navHamburgerButtonDOM, navHamburgerListDOM) {
         this.navHamburgerDOM = navHamburgerButtonDOM;
         this.navHamburgerListDOM = navHamburgerListDOM;
